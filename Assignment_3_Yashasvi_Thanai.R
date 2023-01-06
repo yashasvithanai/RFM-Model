@@ -18,15 +18,6 @@ rm(list = ls())
 
 #========================= READ TRIAL DATA =====================================
 
-url <- 'https://dl.dropboxusercontent.com/s/xxfloksp0968mgu/CDNOW_sample.txt'
-if (!file.exists('CDNOW_sample.txt')) {     # check whether data exists in local folder (prevents downloading every time)
-    download.file(url, 'CDNOW_sample.txt')
-}
-df.raw <- read.fwf('CDNOW_sample.txt', width = c(6, 5, 9, 3, 8), stringsAsFactors = F)  # load data
-
-
-
-
 
 #==================== Section 2: loading the data ==============================
 
