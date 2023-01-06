@@ -42,7 +42,9 @@ _RFM values for Consumer id 1_
 ### Targeting 
 The factor loadings are provided. 
 The RFM index is calculated as:
+
 index = -0.05*(recency) + 3.5*(frequency) + 0.05*(monetary value)
+
 A high-value consumer will have low recency, high frequency, and high monetary value. 
 
 We divide the consumers into quantiles using by their index values. We find that the consumers with highest 10% index values have an average expenditure of $15.65.  
