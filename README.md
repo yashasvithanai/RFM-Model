@@ -40,7 +40,8 @@ _RFM values for Consumer id 1_
 <img width="1050" alt="RFM results" src="https://user-images.githubusercontent.com/119455759/211010911-f5d38f0b-4739-48fa-99c3-f56e915f70f9.png">
 
 ### Targeting 
-The factor loadings are provided. The RFM index is calculated as:
+The factor loadings are provided. 
+The RFM index is calculated as:
 index = -0.05*(recency) + 3.5*(frequency) + 0.05*(monetary value)
 A high-value consumer will have low recency, high frequency, and high monetary value. 
 
