@@ -1,5 +1,5 @@
 # RFM Model
-Purchase history holds a lot of power to understand consumers’ patterns and leverage it to target optimally for promotional activities and improve sales. 
+Purchase history holds a lot of power to understand consumers’ patterns and leverage it to target optimally for promotional activities and improving sales. 
 
 I am provided with purchase history of 1000 customers for a brand CDNOW over the past 18 months. The objective is to segment high-value customers from the low-value ones by utilizing RFM (Recency, Frequency, Monetary Value) model.
 
