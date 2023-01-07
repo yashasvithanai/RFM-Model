@@ -12,7 +12,7 @@ RFM helps answer the following business questions:
 
 I first familiarize myself with the data provided. 
 - The time-series data is highly granular, with purchase data from each day in 18 months. 
-- I aggregate the data into monthly data with number of trips and total expenditure and total quantity purchased. 
+- I aggregate the data into monthly data for each consumer with their total number of trips and expenditure and quantity purchased. 
 - I also convert the data type of month and year to date format. 
 - Anticipating the possibility that there are months when no trips were made by a consumer, we create rows with for total purchases in each month for a consumer. 
 
